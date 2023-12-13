@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Howard.</h1>
-<h3 align="center">Full-stack developer with a passion for both front-end and back-end technologies.</h3>
+<h3 align="center">Full-stack developer and Le Wagon web development graduate.</h3>
 
 - 🔭 I’m currently working on **(project)**
 
