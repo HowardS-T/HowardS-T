@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Howard.</h1>
 <h3 align="center">Full-stack developer and Le Wagon web development graduate.</h3>
 
-- 🔭 I’m currently working on **(project)**
+<! --- 🔭 I’m currently working on **(project)** -->
+
 
 - 🌱 I’m currently learning **(skills/languages/frameworks)**
 
