@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Howard.</h1>
 <h3 align="center">Full-stack developer and Le Wagon web development graduate.</h3>
 
-<! --- 🔭 I’m currently working on **(project)** -->
-
-
-- 🌱 I’m currently learning **(skills/languages/frameworks)**
-
-- 👨‍💻 All of my projects are available at [(portfolio link)]((portfolio link))
-
-- 📄 Know about my experiences [(CV link)]((CV link))
-
 - ⚡ Fun fact **I was a tax advisor in a previous life.**
 
 <h3 align="left">Connect with me:</h3>
